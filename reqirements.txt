@@ -1,5 +1,5 @@
 streamlit
 pandas
 plotly
-gspread
+gspread==6.2.1
 google-auth
