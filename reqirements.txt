@@ -1,5 +1,0 @@
-streamlit
-pandas
-plotly
-gspread==6.2.1
-google-auth
